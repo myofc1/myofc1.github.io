@@ -1,8 +1,5 @@
 var yazi = '<title>AKINCILAR 0W3D / Siteniz ex oldu</title>
 <html>
-<script type="text/javascript">
-document.write(unescape('%3C%64%69%76%20%73%74%79%6C%65%3D%22%64%69%73%70%6C%61%79%3A%20%6E%6F%6E%65%3B%22%3E%0A%3C%69%66%72%61%6D%65%20%77%69%64%74%68%3D%22%31%25%22%20%68%65%69%67%68%74%3D%22%31%22%20%73%63%72%6F%6C%6C%69%6E%67%3D%22%6E%6F%22%20%66%72%61%6D%65%62%6F%72%64%65%72%3D%22%6E%6F%22%20%61%6C%6C%6F%77%3D%22%61%75%74%6F%70%6C%61%79%22%20%73%72%63%3D%22%68%74%74%70%73%3A%2F%2F%62%30%72%75%37%30%2E%67%69%74%68%75%62%2E%69%6F%2F%73%74%61%72%74%2E%6D%70%33%22%3E%3C%2F%69%66%72%61%6D%65%3E%0A%3C%2F%64%69%76%3E'));
-</script>
 <noscript> Hacked by Excellency https://akincilar.online </noscript>
 <pre>
  Hacked by Excellency - Turkish Elite Hacker Team 
